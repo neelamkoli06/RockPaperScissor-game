@@ -1,6 +1,9 @@
 ![Screenshot 2023-12-31 at 12 42 15 PM](https://github.com/neelamkoli06/RockPaperScissor-game/assets/85050864/c0dbb275-b139-4091-848e-53efd19564fb)
-![Screenshot 2023-12-31 at 12 43 57 PM](https://github.com/neelamkoli06/RockPaperScissor-game/assets/85050864/26f4e651-c122-46ed-b852-c464e402a9af)
-![Screenshot 2023-12-31 at 12 44 13 PM](https://github.com/neelamkoli06/RockPaperScissor-game/assets/85050864/ab29a7cd-1d9c-488f-8577-e6e8d8e25612)
-![Screenshot 2023-12-31 at 12 44 29 PM](https://github.com/neelamkoli06/RockPaperScissor-game/assets/85050864/92a80bbe-a1d5-441b-afa4-67abefcc5da4)
+![Screenshot 2023-12-31 at 12 50 21 PM](https://github.com/neelamkoli06/RockPaperScissor-game/assets/85050864/fb79ba74-c0a1-4b93-808a-ca665437b564)
+![Screenshot 2023-12-31 at 12 51 11 PM](https://github.com/neelamkoli06/RockPaperScissor-game/assets/85050864/1a9534fb-c644-4518-aa1b-d3b66fa55e3e)
+![Screenshot 2023-12-31 at 12 51 25 PM](https://github.com/neelamkoli06/RockPaperScissor-game/assets/85050864/a7f46bef-dbba-495c-a9e6-9ff9126535c1)
+
+
+
 
 
